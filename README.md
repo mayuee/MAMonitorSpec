@@ -1,0 +1,2 @@
+# MAMonitorSpec
+MAMonitor Swec
